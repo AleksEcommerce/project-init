@@ -1,0 +1,8 @@
+/* Global styling */
+@import '01-configuration/all';
+@import '02-base/all';
+
+@include css-variables-colors;
+@include css-variables-layout;
+
+@import '03-sections/all';
